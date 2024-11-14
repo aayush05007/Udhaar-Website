@@ -91,6 +91,7 @@ credit management
     </form>
 </section>
 
+
 <script src="js/script.js"></script> 
 /* Reset and Basic Styling */
 * {
