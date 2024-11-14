@@ -88,4 +88,10 @@ credit management
         <label for="message">Message:</label>
         <textarea id="message" name="message" required></textarea>
         <button type="submit">Send</button>
-    
+
+    // Basic form validation script
+document.querySelector('form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    alert('Form submitted! We will get back to you soon.');
+});
+
