@@ -1,5 +1,12 @@
 # Udhaar-Website
 credit management 
+udhaar-website/
+├── index.html
+├── css/
+│   └── styles.css
+└── js/
+    └── script.js
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
